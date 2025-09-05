@@ -33,14 +33,17 @@ const Center = () => {
 
                     <div className='flex items-center flex-col justify-center'>
                         <img className='w-[100px] h-[100px]' src={Logo2} alt="" />
-                        <h2 className='text-3xl w-[200px] text-center'>Membership Organisations</h2>
+                        <h2 className='text-3xl w-[200px] text-center'>
+                            Membership Organisations</h2>
                         <p className='text-gray-500 w-[300px] text-center'>Our membership management software provides full automation of membership renewals and payments</p>
                     </div>
 
 
                     <div className='flex items-center flex-col justify-center'>
                         <img className='w-[100px] h-[100px]' src={Logo2} alt="" />
-                        <h2 className='text-3xl w-[200px] text-center'>Membership Organisations</h2>
+                        <h2 className='text-3xl w-[200px] text-center'>Membership Organisations
+
+                        </h2>
                         <p className='text-gray-500 w-[300px] text-center'>Our membership management software provides full automation of membership renewals and payments</p>
                     </div>
                 </div>
