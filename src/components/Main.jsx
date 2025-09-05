@@ -1,5 +1,5 @@
 import React from 'react'
-import logo from '../assets/react.svg'
+import logo from '../assets/Illustration (3).png'
 
 const Main = () => {
   return (
@@ -13,8 +13,8 @@ const Main = () => {
           <button className='w-[100px] h-[50px] bg-[#4CAF4F] text-white mt-5 rounded-md'>Register</button>
         </div>
 
-        <div>
-          <img src={logo} alt="" />
+        <div >
+          <img className="w-[500px] h-[400px]" src={logo} alt="" />
         </div>
 
       </div>

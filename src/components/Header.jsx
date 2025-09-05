@@ -1,10 +1,11 @@
 import React from 'react'
 import logo from '../assets/react.svg'
+import logo2 from '../assets/Logo (3).png'
 const Header = () => {
   return (
    <header>
     <nav className='flex justify-around items-center h-[80px]'>
-        <img src={logo} alt=""  className='w-[90px] h-[20px]'/>
+        <img src={logo2} alt=""  className='w-[90px] h-[20px]'/>
 
 
         <ul className='flex gap-9 items-center'>
